@@ -20,8 +20,9 @@ PLATFORMS
   universal-darwin-20
 
 DEPENDENCIES
+  rack
   rack-test (~> 1.1)
   sinatra (~> 2.1)
 
 BUNDLED WITH
-   2.2.23
+   2.4.13
